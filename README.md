@@ -26,3 +26,14 @@ Saat ini saya juga telah meraih beberapa sertifikasi seperti : <br> [sertifikasi
 
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/sahrul-amri-59022b216/)ku ya.
+
+### Github Statistic
+
+<p align="left">
+<a href="https://github.com/penuliscode">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sahrulamri&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sahrulamri&layout=compact&theme=algolia"/>
+</a>
+</p>
+
+
