@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Halo semua! 
+
+Perkenalkan nama saya **Sahrul Amri**.<br>
+
+Saya seorang **Mahasiswa S1 Teknik Informatika** di [Unniversitas Dian Nuswantoro](https://dinus.ac.id/).<br>
+saat ini saya sedang berada di semester 3.
+Saat ini saya juga telah meraih beberapa sertifikasi seperti : <br> [sertifikasi Belajar dasar SQL dari Dicoding](https://www.dicoding.com/certificates/EYX4YRGNWZDL).<br>
+[sertifikasi Belajar DevOps dari Dicoding](https://www.dicoding.com/certificates/MRZMLG2WKXYQ) <br>
+
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/sahrul-amri-59022b216/)ku ya.
