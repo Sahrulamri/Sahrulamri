@@ -33,7 +33,7 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
 <a href="https://github.com/penuliscode">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sahrulamri&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sahrulamri&layout=compact&theme=algolia"/>
-  <img width="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sahrulamri&amp;theme=algolia" style="max-width: 100%;">
+<!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sahrulamri&amp;theme=algolia" style="max-width: 100%;"> -->
 </a>
 </p>
 
