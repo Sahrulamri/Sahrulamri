@@ -34,7 +34,8 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sahrulamri&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sahrulamri&layout=compact&theme=algolia"/>
 <!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sahrulamri&amp;theme=algolia" style="max-width: 100%;"> -->
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sahrulamri&show_icons=true&locale=en&layout=compact" alt="Sahrulamri" /></p>
+<!--   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sahrulamri&show_icons=true&locale=en&layout=compact" alt="Sahrulamri" /></p> -->
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahrulamri&langs_count=10&theme=tokyonight&card_height=150px&layout=compact&card_width=250px"> -->
 </a>
 </p>
 
