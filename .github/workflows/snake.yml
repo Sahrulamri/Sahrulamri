@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Snake Animation
 
 on:
   schedule:
@@ -15,11 +15,13 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate Snake animation
+      - name: Generate both dark and light snake versions
         uses: Platane/snk@v3
         with:
           github_user_name: Sahrulamri
-          outputs: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push Snake animation to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
