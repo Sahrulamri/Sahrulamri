@@ -8,6 +8,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=800&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+there+👋,+I'm+Sahrul+Amri!;Informatics+Engineering+Student+at+UDINUS;Web+Developer+%7C+AI+Enthusiast+%7C+Tech+Learner" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sahrulamri&label=Profile%20views&color=0e75b6&style=flat" alt="Sahrulamri" />
+</p>
+
+
+
 
 
 
@@ -23,7 +29,7 @@ Saat ini saya sedang berada di semester 7.
 
 ## 🌐 Portofolio
 
-Berikut Portofolioku — klik gambarnya untuk membuka website:
+Berikut Portofolioku — klik gambarnya untuk membuka website yaaa...:
 
 [![Portofolio Sahrul Amri](https://raw.githubusercontent.com/Sahrulamri/Sahrulamri/main/heroku_portofolio.png)](https://amri-portofolio-3tc6.vercel.app)
 
