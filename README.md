@@ -5,8 +5,11 @@
 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I'm+Sahrul+Amri!;Informatics+Engineering+Student+at+UDINUS;Web+Developer+%7C+AI+Enthusiast+%7C+Tech+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=800&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+there+👋,+I'm+Sahrul+Amri!;Informatics+Engineering+Student+at+UDINUS;Web+Developer+%7C+AI+Enthusiast+%7C+Tech+Learner" alt="Typing SVG" />
 </p>
+
+
+
 
 ---
 
