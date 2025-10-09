@@ -51,7 +51,7 @@ Berikut Portofolioku — klik gambarnya untuk membuka website:
 <p align="center">
   <a href="https://github.com/Sahrulamri">
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Sahrulamri&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahrulamri&layout=compact&langs_count=12&theme=tokyonight"/>
+    <!-- <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahrulamri&layout=compact&langs_count=12&theme=tokyonight"/> -->
   </a>
 </p>
 
