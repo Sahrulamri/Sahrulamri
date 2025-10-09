@@ -22,22 +22,34 @@ Perkenalkan nama saya **Sahrul Amri**.<br>
 Saya seorang **Mahasiswa S1 Teknik Informatika** di [Unniversitas Dian Nuswantoro](https://dinus.ac.id/).<br>
 saat ini saya sedang berada di semester 7.
 
-Berikut Portofolioku : https://amri-portofolio-3tc6.vercel.app
+## 🌐 Portofolio
+
+Berikut Portofolioku — klik gambarnya untuk membuka website:
+
+[![Portofolio Sahrul Amri](https://raw.githubusercontent.com/Sahrulamri/Sahrulamri/main/heroku_portofolio.png)](https://amri-portofolio-3tc6.vercel.app)
+
 
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/sahrul-amri-59022b216/)ku ya.
 
 ### Github Statistic
 
-<p align="left">
+<p align="center">
 <a href="https://github.com/Sahrulamri">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sahrulamri&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sahrulamri&layout=compact&theme=algolia"/>
   <!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sahrulamri&amp;theme=algolia" style="max-width: 100%;"> --> 
   <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sahrulamri&show_icons=true&locale=en&layout=compact" alt="Sahrulamri" /></p>  -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahrulamri&langs_count=10&theme=tokyonight&card_height=150px&layout=compact&card_width=250px">
+
 </a>
 </p>
+
+## 📊 My Top Languages
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahrulamri&langs_count=15&theme=tokyonight&layout=compact&card_width=420" />
+  </p>
+
 
 
 <p align="center">
