@@ -29,7 +29,8 @@ Saat ini saya sedang berada di semester 7.
 
 ## 🌐 Portofolio
 
-Berikut Portofolioku — klik gambarnya untuk membuka website yaaa...
+Berikut Portofolioku — klik gambarnya untuk membuka website yaaa... <br>
+Buka tab baru untuk pengalaman lebih baik...
 
 <a href="https://amri-portofolio-3tc6.vercel.app" target="_blank" rel="noopener noreferrer">
   <img src="https://raw.githubusercontent.com/Sahrulamri/Sahrulamri/main/heroku_portofolio.png" alt="Portofolio Sahrul Amri" />
