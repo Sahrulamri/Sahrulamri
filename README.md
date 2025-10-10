@@ -93,7 +93,7 @@ Berikut Portofolioku — klik gambarnya untuk membuka website yaaa...
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,nodejs,express,php,laravel,python,flask,nextjs,mysql,mongodb,prisma,git,vercel,golang,jupyter" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,nodejs,express,php,laravel,python,flask,nextjs,mysql,mongodb,prisma,git,vercel,golang,dart,flutter" />
 </p>
 
 ---
